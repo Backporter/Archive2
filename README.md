@@ -30,6 +30,10 @@ create a folder called "data", put textures and run Archive2.exe, either do it v
 
 "output ba2 name" && "-nc" && "-nst" && "-h" && "--help"
 
+"-nc" enables no compression mode
+
+"-nst" enables No String Table mode
+
 **Credits:**
 ---------------------------------------------------------------------
 - Kernel Panic | Backporter
