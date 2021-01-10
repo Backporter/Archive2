@@ -40,6 +40,8 @@ create a folder called "data", put textures and run Archive2.exe, either do it v
 
 - [zlibnet](https://github.com/gdalsnes/zlibnet)
 
+https://web.mit.edu/freebsd/head/sys/libkern/crc32.c - CRC32 table
+
 **Notes:**
 ---------------------------------------------------------------------
 * Make sure the dds are converted to GNF, this tool will not detect the texture format and it assume its already GNF
