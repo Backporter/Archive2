@@ -27,6 +27,7 @@ expected look:
 create a folder called "data", put textures and run Archive2.exe, either do it via CMD or double click it and let it do its magic, if should output a file called "Output - Textures.ba2" if none is given, rename it to <espname - Textures.ba2>, and now you have a PS4 GNMF BA2
 
 **Valid Arguments**:
+
 "output ba2 name" && "-nc" && "-nst" && "-h" && "--help"
 
 **Credits:**
