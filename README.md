@@ -50,10 +50,9 @@ https://web.mit.edu/freebsd/head/sys/libkern/crc32.c - CRC32 table
 
 **Building in Visual Studio:**
 ---------------------------------------------------------------------
-1: install zlib via vcpkg (vcpkg install zlib:x64-windows)
 
-2: download src and load it in visual studio(2017)
+1: download src and load it in visual studio(2017)
 
-3: hit build
+2: hit build
 
-4: prophet!?!?
+3: prophet!?!?
