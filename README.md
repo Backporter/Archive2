@@ -38,7 +38,7 @@ create a folder called "data", put textures and run Archive2.exe, either do it v
 ---------------------------------------------------------------------
 - Kernel Panic | Backporter
 
-- [zlibnet](https://github.com/gdalsnes/zlibnet)
+- [zlibnet](https://www.zlib.net/)
 
 https://web.mit.edu/freebsd/head/sys/libkern/crc32.c - CRC32 table
 
@@ -47,3 +47,13 @@ https://web.mit.edu/freebsd/head/sys/libkern/crc32.c - CRC32 table
 * Make sure the dds are converted to GNF, this tool will not detect the texture format and it assume its already GNF
 
 * This Repo has been re-created as the old one contained senstive infomation, old one was created Nov 2020
+
+**Building in Visual Studio:**
+---------------------------------------------------------------------
+1: install zlib via vcpkg (vcpkg install zlib:x64-windows)
+
+2: download src and load it in visual studio(2017)
+
+3: hit build
+
+4: prophet!?!?
